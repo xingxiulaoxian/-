@@ -1,0 +1,2 @@
+创建mongoDB 为win服务
+mongod.exe --logpath "D:\mongodb\data\log\mongodb.log" --logappend --dbpath "D:\mongodb\data\db" --install
